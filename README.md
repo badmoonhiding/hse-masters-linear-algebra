@@ -1,2 +1,2 @@
 # hse-masters-linear-algebra
-## comming soon
+## coming soon
